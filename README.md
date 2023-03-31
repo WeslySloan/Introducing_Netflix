@@ -23,6 +23,8 @@ android studio 와 cordova 를 이용하여 에뮬레이터에 hybrid html 페�
 
 로 이루어져 있습니다.
 
+---
+
 bootstrap framework 와
 
 ```html
@@ -33,6 +35,9 @@ bootstrap framework 와
 ```
 
 chart.js 를 사용하였 습니다.
+
+---
+
 
 ```html
           <div data-role="collapsible">
