@@ -38,7 +38,7 @@ chart.js 를 사용하였 습니다.
           <div data-role="collapsible">
               <h3>넷플릭스 글로벌 가입자 인원 차트</h3>
               <p>
-                <canvas id="myChart" width="500" height="150"></canvas>
+                <canvas id="myChart" width="100%"></canvas>
                 <script type="text/javascript">
                   var context = document
                       .getElementById('myChart')
@@ -59,14 +59,14 @@ chart.js 를 사용하였 습니다.
                                   ],
                                   backgroundColor: [
                                       //색상
-                                      'rgba(255, 99, 132, 0.2)',
-                                      'rgba(255, 99, 132, 0.2)',
-                                      'rgba(255, 99, 132, 0.2)',
-                                      'rgba(255, 99, 132, 0.2)',
-                                      'rgba(255, 99, 132, 0.2)',
-                                      'rgba(255, 99, 132, 0.2)',
-                                      'rgba(255, 99, 132, 0.2)',
-                                      'rgba(255, 99, 132, 0.2)'
+                                        '#E50914',
+                                        '#E50914',
+                                        '#E50914',
+                                        '#E50914',
+                                        '#E50914',
+                                        '#E50914',
+                                        '#E50914',
+                                        '#E50914',
                                   ],
                                   borderWidth: 2 //경계선 굵기
                               }/* ,
